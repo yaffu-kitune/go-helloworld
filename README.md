@@ -1,1 +1,1 @@
-＃ GO言語でHelloWorldした
+# GO言語でHelloWorldした
